@@ -1,2 +1,2 @@
-osetta :ayer.viewer
+Rosetta :video.player.viewer
 ===================
